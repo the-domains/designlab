@@ -1,7 +1,7 @@
 name: DesignLab
 favicon: null
-layout_spectrum: 0.5437714201398194
-typography_spectrum: 0.4195549900177866
+layout_spectrum: 1
+typography_spectrum: 0.22455
 cta:
   domain: null
   bucket: null
